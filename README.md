@@ -1,2 +1,2 @@
 # pesanhak
-aplikasi kurir
+aplikasi kurir berbasis website
